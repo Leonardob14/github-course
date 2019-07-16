@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-arquivo 1 
-=======
-Primeira mod
->>>>>>> novo
+1-Arquivo.txt
