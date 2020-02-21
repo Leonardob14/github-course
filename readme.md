@@ -1,5 +1,3 @@
-Teste
-testando
-aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-12345678
+Arquivos do curso de GIT 
+
 
